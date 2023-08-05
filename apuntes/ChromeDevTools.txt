@@ -1,0 +1,8 @@
+Chrome Dev Tools
+
+herramienta del navegador que nos ayuda a ver cómo el código de nuestro proyecto se comporta 
+
+podemos manipular el css en tiempo real 
+
+para usarlo, usamos el "inspeccionar" de la página 
+

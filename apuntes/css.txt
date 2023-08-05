@@ -1,0 +1,18 @@
+header nav {
+  display: flex;
+  justify-content: flex-end;
+}
+
+
+con la linea de header nav nos lleva especificamente al nav del html 
+sin necesidad de generarle una clase 
+
+
+  justify-content: flex-end;
+  esto hace que lo que tengamos dándole estilo (en este caso el nav) se recorra hasta la derecha 
+
+
+El orden de a qué le das estilos es muy imporante! 
+en este ejemplo, le damos estilo a las "anclas" después del header nav .nav-right-section, pero le debemos quitar la línea que está debajo del texto que nos da por defecto
+
+para asignarlo, debemos de ponerlo de manera global (debajo del body y antes del header )

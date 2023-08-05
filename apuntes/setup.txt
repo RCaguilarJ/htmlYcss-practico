@@ -1,0 +1,4 @@
+Qué tipo de archivos y carpetas se necesitan?
+
+-el index.html y el css
+
